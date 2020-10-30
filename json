@@ -1,0 +1,309 @@
+{
+
+    "status": "ok",
+    "totalResults": 38,
+    -
+    "articles": [
+        -
+        {
+            -
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Katelyn Polantz, CNN",
+            "title": "Federal appeals court rules mailed ballots must be received by Election Day in Minnesota, cutting weeklong window - CNN",
+            "description": "A federal appeals court ruled Thursday that mailed-in ballots in Minnesota must be received by elections officials no later than Election Day.",
+            "url": "https://www.cnn.com/2020/10/29/politics/minnesota-mail-in-ballots/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200924162249-mail-in-ballots-voting-2-super-tease.jpg",
+            "publishedAt": "2020-10-30T00:24:11Z",
+            "content": null
+        },
+        -
+        {
+            -
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Jesse Rogers",
+            "title": "Chicago White Sox's Tony La Russa announcement uses AJ Hinch's signature - ESPN",
+            "description": "The White Sox mistakenly sent an email welcoming Tony La Russa that included AJ Hinch's signature on a photo of La Russa, an error that was due to multiple variations of the graphic being prepared for various candidates, a source told ESPN.",
+            "url": "https://www.espn.com/mlb/story/_/id/30219632/aj-hinch-signature-chicago-white-sox-email-welcoming-tony-la-russa-glitch",
+            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F0207%2Fr663003_1296x729_16%2D9.jpg",
+            "publishedAt": "2020-10-30T00:11:15Z",
+            "content": "CHICAGO -- A glitch in a graphic file that was emailed to some fans announcing the Chicago White Sox's hiring of new manager Tony La Russa on Thursday contained a signature of AJ Hinch on a picture o… [+725 chars]"
+        },
+        -
+        {
+            -
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Donie O'Sullivan, CNN",
+            "title": "Fact check: Trump continues to use a misleading video to claim Biden is not fit for office - CNN",
+            "description": "President Donald Trump and his campaign have leaned in heavily on a video that misleadingly suggests Democratic nominee Joe Biden doesn't know who he is running against.",
+            "url": "https://www.cnn.com/2020/10/29/politics/trump-biden-misleading-video-george-fact-check/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201029164424-01-trump-florida-1029-super-tease.jpg",
+            "publishedAt": "2020-10-30T00:06:51Z",
+            "content": "Washington (CNN)President Donald Trump and his campaign have leaned in heavily on a video that misleadingly suggests Democratic nominee Joe Biden doesn't know who he is running against.\r\nThe Trump ca… [+3695 chars]"
+        },
+        -
+        {
+            -
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "Google is bringing its own VPN to desktops and phones with $9.99 Google One subscription - The Verge",
+            "description": "Google will throw in an Android-based VPN free of charge to any 2TB Google One cloud storage subscriber in the US — and will expand to iOS, Windows and Mac and other countries “in the coming months.”",
+            "url": "https://www.theverge.com/2020/10/29/21541032/google-one-vpn-cloud-storage-subscription",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/6TMf6BCs_gkfhQYgbZ2KusbZ-MQ=/83x0:864x409/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21999411/VPN_by_Google_One_blog_Hero_gDAlvwP.max_1000x1000.png",
+            "publishedAt": "2020-10-29T23:59:07Z",
+            "content": "Your cloud storage now comes with more secure browsing\r\nThere are any number of VPN services you can use to help protect your privacy and security with an encrypted internet connection, and now Googl… [+778 chars]"
+        },
+        -
+        {
+            -
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Mariah Haas",
+            "title": "Rapper Lil Wayne meets with Trump - Fox News",
+            "description": "Lil Wayne and President Trump \"had a great meeting,\" according to the rapper.",
+            "url": "https://www.foxnews.com/entertainment/rapper-lil-wayne-meets-trump",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Trump-Lil-Wayne.jpg",
+            "publishedAt": "2020-10-29T23:01:33Z",
+            "content": "Mic drop: Lil Wayne and President Trump \"had a great meeting,\" according to the rapper.\r\nOn Thursday, the 38-year-old, whose real name Dwayne Michael Carter Jr., tweeted a photo of himself standing n… [+2399 chars]"
+        },
+        -
+        {
+            -
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Tyler Clifford",
+            "title": "Cramer reacts to Amazon, Alphabet, Apple and Facebook earnings - CNBC",
+            "description": "\"In most cases, the earnings estimates were way, way, way, way, way, way, way too low,\" the \"Mad Money\" host said.",
+            "url": "https://www.cnbc.com/2020/10/29/cramer-reacts-to-amazon-alphabet-apple-and-facebook-earnings.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105940458-1559231679482img_5187.jpg?v=1590615807",
+            "publishedAt": "2020-10-29T22:57:00Z",
+            "content": "CNBC's Jim Cramer on Thursday rejected the idea that Big Tech stocks may be \"ridiculously expensive.\"\r\nAfter sifting through the earnings reports posted by Amazon, Alphabet, Apple and Facebook, the \"… [+3269 chars]"
+        },
+        -
+        {
+            -
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "",
+            "title": "NASA confirms OSIRIS-REx has secured its asteroid sample - Engadget",
+            "description": "After a process that took a couple of days, the OSIRIS-REx mission has stowed away the sample of regolith that it snatched from an asteroid last week.",
+            "url": "https://www.engadget.com/nasa-asteroid-collection-secure-222451521.html",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fe43237d0-1a34-11eb-9ef7-bb9e10aab7db&client=amp-blogside-v2&signature=dc17e97f38c75dbffccdd0dafe05570967884fcd",
+            "publishedAt": "2020-10-29T22:25:27Z",
+            "content": "After a process that took a couple of days, the OSIRIS-REx mission has stowed away the sample of regolith that it snatched from an asteroid last week. Shortly after ,the team discovered that small pa… [+459 chars]"
+        },
+        -
+        {
+            -
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Jim Vejvoda",
+            "title": "Rogue Planet Discovered Flying Through Milky Way Without a Star - IGN - IGN",
+            "description": "There's a \"rogue planet\" flying through the Milky Way galaxy, a free-floating world without a host star. Its mass is reportedly between that of Earth and Mars.",
+            "url": "https://www.ign.com/articles/rogue-planet-discovered-flying-through-milky-way-without-a-star",
+            "urlToImage": "https://assets1.ignimgs.com/2020/10/29/unicron-tlk-1604009419573.jpg?width=1280",
+            "publishedAt": "2020-10-29T22:20:47Z",
+            "content": "There's a \"rogue planet\" flying through the Milky Way galaxy -- a free-floating world without a host star. Is it actually a Death Star? The worldships of Marvel villains Annihilus or Galactus? The pl… [+2339 chars]"
+        },
+        -
+        {
+            -
+            "source": {
+                "id": null,
+                "name": "9to5google.com"
+            },
+            "author": null,
+            "title": "What are your first impressions of the Google Pixel 5? [Poll] - 9to5Google",
+            "description": "We've already heard the opinions of numerous reviewers, but now that the Google Pixel 5 is out in the wild, we want to know what you think.",
+            "url": "https://9to5google.com/2020/10/29/what-are-your-first-impressions-of-the-google-pixel-5-poll/",
+            "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2020/10/Google-Pixel-5-4.jpg?quality=82&strip=all",
+            "publishedAt": "2020-10-29T22:07:47Z",
+            "content": "This week, Pixel 5 shipments have been steadily arriving to those who preordered the phone in the US. We’ve already heard the opinions of numerous reviewers, but now that the Google Pixel 5 is out in… [+1307 chars]"
+        },
+        -
+        {
+            -
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": "Cydney Contreras",
+            "title": "Karlie Kloss Is Pregnant, Expecting First Baby With Joshua Kushner - E! NEWS",
+            "description": "Karlie Kloss is pregnant with her and husband Joshua Kushner's first child, two years after the pair wed in a romantic New York wedding.",
+            "url": "https://www.eonline.com/news/1203496/karlie-kloss-is-pregnant-expecting-first-baby-with-joshua-kushner",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2018624/rs_600x600-180724093539-600-kloss.cm.72418.jpg?fit=around|1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2020-10-29T22:03:00Z",
+            "content": "Karlie Kloss and Joshua Kushner have a lot to look forward to in 2021!\r\nAccording to multiple outlets, the model and businessman are expecting their first baby together. \r\nThe happy news comes just d… [+746 chars]"
+        },
+        -
+        {
+            -
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Maegan Vazquez, CNN",
+            "title": "Trump seems to strike a new tone on masks: 'If you get close, wear a mask' - msnNOW",
+            "description": "President Donald Trump struck a slightly new tone on mask-wearing at a rally on Thursday, telling a group of largely maskless, shoulder-to-shoulder supporters that he thinks wearing a mask is appropriate when social distancing isn't possible.",
+            "url": "https://www.cnn.com/2020/10/29/politics/trump-masks-election-2020/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201029155018-01-trumps-tampa-1029-super-tease.jpg",
+            "publishedAt": "2020-10-29T21:53:00Z",
+            "content": "(CNN)President Donald Trump struck a slightly new tone on mask-wearing at a rally on Thursday, telling a group of largely maskless, shoulder-to-shoulder supporters that he thinks wearing a mask is ap… [+2376 chars]"
+        },
+        -
+        {
+            -
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Samuel Axon",
+            "title": "Apple earnings show strong iPad and Mac sales can’t make up for the iPhone - Ars Technica",
+            "description": "New iPhone sales will rest entirely in the next quarter this time.",
+            "url": "https://arstechnica.com/gadgets/2020/10/apple-earnings-show-strong-ipad-and-mac-sales-cant-make-up-for-the-iphone/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/07/GettyImages-1154966852-760x380.jpg",
+            "publishedAt": "2020-10-29T21:50:00Z",
+            "content": "Enlarge/ Apple CEO Tim Cook.\r\n31 with 26 posters participating\r\nApple announced its fourth-quarter earnings today after the bell, and it was something of a strange quarter because, unlike some previo… [+2759 chars]"
+        },
+        -
+        {
+            -
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Alex Thompson, Megan Cassella",
+            "title": "Exclusive: Warren will make case to be Biden's Treasury secretary - POLITICO",
+            "description": "Warren's move could set up a marquee fight over what will be one of the most consequential Cabinet roles in a Biden administration.",
+            "url": "https://www.politico.com/news/2020/10/29/elizabeth-warren-biden-treasury-433620",
+            "urlToImage": "https://static.politico.com/9a/c4/bbcea34a4e31a603a6e24110dbf2/200414-biden-warren-gty-773.jpg",
+            "publishedAt": "2020-10-29T21:31:00Z",
+            "content": "Other leading contenders for the Treasury slot include Federal Reserve Governor Lael Brainard; Sarah Bloom Raskin, a former Treasury Department official; and Roger Ferguson, former Federal Reserve vi… [+4204 chars]"
+        },
+        -
+        {
+            -
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Dodgers' Walker Buehler reflects on World Series win, talks Mookie Betts & Kershaw | MLB | THE HERD - The Herd with Colin Cowherd",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9MkxuRmxpQmNqOEXSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2020-10-29T21:23:53Z",
+            "content": null
+        },
+        -
+        {
+            -
+            "source": {
+                "id": null,
+                "name": "HuffPost"
+            },
+            "author": "Cole Delbyck",
+            "title": "Scarlett Johansson And Colin Jost Are 'Jost Married' After Intimate Wedding - HuffPost",
+            "description": "The couple, who got engaged in May 2019, tied the knot after three years of dating.",
+            "url": "https://www.huffpost.com/entry/scarlett-johansson-colin-jost-married_n_5f9b15dcc5b689d246f87e77",
+            "urlToImage": "https://img.huffingtonpost.com/asset/5f9b17442400006515b03446.jpeg?cache=xFOC0xjdh0&ops=1200_630",
+            "publishedAt": "2020-10-29T21:18:00Z",
+            "content": "Scarlett Johansson and Colin Jost are “Jost married.” \r\nThe couple, who announced their engagement in May 2019, tied the knot in an intimate ceremony over the weekend after three years of dating.\r\nTh… [+3288 chars]"
+        },
+        -
+        {
+            -
+            "source": {
+                "id": null,
+                "name": "KCRA Sacramento"
+            },
+            "author": "Hilda Flores",
+            "title": "First case of flu and COVID-19 co-infection confirmed in Solano County - KCRA Sacramento",
+            "description": "The first case of someone testing positive for both COVID-19 and the flu at the same time has been reported in Solano County, according to health officials.",
+            "url": "https://www.kcra.com/article/first-case-of-flu-and-covid-19-confirmed-solano-county/34524668",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/kcra/20510216-20510216.jpg?crop=0.982xw:0.983xh;0.0176xw,0.0171xh&resize=1200:*",
+            "publishedAt": "2020-10-29T21:01:00Z",
+            "content": "SOLANO COUNTY, Calif. —The first case of someone testing positive for both COVID-19 and the flu at the same time has been reported in Solano County, according to health officials.\r\nSolano County Publ… [+1041 chars]"
+        },
+        -
+        {
+            -
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "",
+            "title": "Gray Wolves To Lose Endangered Species Protections - NPR",
+            "description": "The U.S. Fish and Wildlife Service is removing federal protections for gray wolves in the contiguous U.S., saying the species' recovery is a success. Wildlife groups are promising to sue.",
+            "url": "https://www.npr.org/2020/10/29/929095979/gray-wolves-to-be-removed-from-endangered-species-list",
+            "urlToImage": "https://media.npr.org/assets/img/2020/10/29/ap_19136740660451_wide-cb626bae223cf27d23d1f5700f75474f5fb2fc90.jpg?s=1400",
+            "publishedAt": "2020-10-29T20:42:12Z",
+            "content": "A gray wolf is captured by a remote camera on U.S. Forest Service land in Oregon in 2017.\r\nOregon Department of Fish and Wildlife/AP\r\nGray wolves, a species that has long been vilified and admired, w… [+3730 chars]"
+        },
+        -
+        {
+            -
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Panthers' Christian McCaffrey won't play vs. Falcons on 'Thursday Night Football' - CBS Sports",
+            "description": "Carolina will be without its star running back for at least another week",
+            "url": "https://www.cbssports.com/nfl/news/panthers-christian-mccaffrey-wont-play-vs-falcons-on-thursday-night-football/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2020/10/12/ea8113a6-3048-470f-831a-f763f1230178/thumbnail/1200x675/b7a0d3f5c91dccbe49a76ee2ec9ebd91/new-team.jpg",
+            "publishedAt": "2020-10-29T20:34:00Z",
+            "content": "While Christian McCaffrey made significant strides in his return to the field this week, the star Carolina Panthers running back will not play against the Atlanta Falcons on \"Thursday Night Football\"… [+1598 chars]"
+        },
+        -
+        {
+            -
+            "source": {
+                "id": null,
+                "name": "Daily Beast"
+            },
+            "author": "Blake Montgomery",
+            "title": "Two People Who Attended North Carolina Trump Rally Have Tested Positive for COVID-19 - The Daily Beast",
+            "description": "One positive case, a reporter, said that Secret Service protocols made social distancing impossible.",
+            "url": "https://www.thedailybeast.com/two-people-who-attended-north-carolina-trump-rally-have-tested-positive-for-covid-19",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_576,w_1024,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1604002373/GettyImages-1229210689_ytyyqa",
+            "publishedAt": "2020-10-29T20:15:00Z",
+            "content": "Two people who attended President Donald Trumps Oct. 21 rally in Gastonia, North Carolina, have tested positive for COVID-19, the Gaston County Public Health Department announced Thursday. These case… [+580 chars]"
+        },
+        -
+        {
+            -
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Associated Press",
+            "title": "Coyotes renounce rights to Mitchell Miller over racist, bullying incidents - New York Post ",
+            "description": "GLENDALE, Ariz. — The Arizona Coyotes renounced their rights Thursday to their top 2020 draft pick after saying they learned more about his bullying of a Black classmate with developmental disabili…",
+            "url": "https://nypost.com/2020/10/29/coyotes-renounce-rights-to-mitchell-miller-for-racist-bullying/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2020/10/Mitchell-Miller-Coyotes.jpg?quality=90&strip=all&w=1200",
+            "publishedAt": "2020-10-29T20:08:00Z",
+            "content": "GLENDALE, Ariz. The Arizona Coyotes renounced their rights Thursday to their top 2020 draft pick after saying they learned more about his bullying of a Black classmate with developmental disabilities… [+3230 chars]"
+        }
+    ]
+
+}

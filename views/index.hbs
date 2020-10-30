@@ -1,0 +1,41 @@
+<form method="GET" action="/search">
+
+    Search:
+    <input type="text" name="search-term" size="50" 
+        placeholder="News Search">
+    
+    <div>
+        
+        <input type="radio" id="us" name="country" value="us">
+        <label for="us"><img src="us.png"/></label>
+        <input type="radio" id="uk" name="country" value="uk">
+        <label for="uk"><img src="uk.png"/></label>
+        <input type="radio" id="sg" name="country" value="sg">
+        <label for="sg"><img src="sg.png"/></label>
+        <input type="radio" id="jp" name="country" value="jp">
+        <label for="jp"><img src="jp.png"/></label>
+        <input type="radio" id="fr" name="country" value="fr">
+        <label for="fr"><img src="fr.png"/></label>
+        <input type="radio" id="cn" name="country" value="cn">
+        <label for="cn"><img src="cn.png"/></label>
+        
+    </div>
+
+
+    <div>
+    <select id="category" name="category">
+        <option value="business">business</option>
+        <option value="entertainment">entertainment</option>
+        <option value="general" selected>general</option>
+        <option value="health">health</option>
+        <option value="science">science</option>
+        <option value="sports">sports</option>
+         <option value="technology">technology</option>     
+  </select>
+    </div>
+
+    <div>
+        <button type="submit">SEARCH</button>
+    </div>
+
+</form>

@@ -1,0 +1,16 @@
+<h3>Your search of {{ search }}</h3>
+
+
+    {{#each displayNews}}
+        <div>
+            <h5>{{ this.title }}</h5>
+            <img src="{{ this.urlToImage }}">
+            <h4>{{ this.description}}</h4>
+            <h1>{{ this.publishedAt}}</h1>
+            <div><a href="{{ this.url}}" target = 
+            "_blank">Read</a></div>
+        </div>
+    {{/each}}
+
+
+
